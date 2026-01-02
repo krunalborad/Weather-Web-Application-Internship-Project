@@ -1,0 +1,27 @@
+🌦️ Weather Web Application
+A simple and user-friendly Weather Web Application built using HTML, CSS, and JavaScript.
+It allows users to search for any city and view real-time weather information such as temperature, condition, humidity, and wind speed.
+
+🚀 Features
+🌍 Search weather by city name
+🌡️ Displays temperature in Celsius
+☁️ Shows weather condition
+💧 Displays humidity level
+🌬️ Shows wind speed
+🎨 Clean and responsive UI
+
+🛠️ Technologies Used
+HTML5 – Structure of the app
+CSS3 – Styling and layout
+JavaScript – Fetching and displaying weather data
+Weather API (wttr.in) – Real-time weather information
+
+🧠 How It Works
+- User enters a city name
+- The app fetches weather data using the wttr.in API
+- Weather details are displayed instantly
+- Handles invalid or empty input gracefully
+
+🏁 Conclusion
+The Weather Web Application is a beginner-friendly project that demonstrates how to work with APIs and dynamically update content using JavaScript.
+It is a great project for learning API integration, async/await, and responsive UI design.
